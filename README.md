@@ -1,5 +1,6 @@
 <h1 align="center">黑黑后台管理系统</h1>
-黑黑后台管理系统是基于[Yii2](http://www.yiiframework.com/), [Vue](https://github.com/vuejs/vue),Bootstrap开发。<a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=e7736f58b122088b535e2dcdf722dc16145fe288ea732054487af661d8cc9f35">加入PHP学习交流群</a>一起交流学习、框架改进、框架数据库。
+黑黑后台管理系统是基于[Yii2](http://www.yiiframework.com/), [Vue](https://github.com/vuejs/vue), Bootstrap开发。
+<a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=e7736f58b122088b535e2dcdf722dc16145fe288ea732054487af661d8cc9f35">加入PHP学习交流群</a>一起交流学习、框架改进、框架数据库。
 
 ```
 包含功能
