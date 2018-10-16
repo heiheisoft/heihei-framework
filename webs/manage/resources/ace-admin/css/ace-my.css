@@ -1,0 +1,27 @@
+.table > thead > tr,.widget-header{
+    background-image:none;
+}
+
+.dataTable > thead > tr > th.sorting_desc,
+.dataTable > thead > tr > th.sorting_asc {
+  background-image:none;
+}
+
+.dataTable > thead > tr > th.sorting_desc:after {
+  top: 10px;
+}
+.dataTable > thead > tr > th.sorting_asc:after {
+  top: 10px;
+}
+
+.tags.labels .tag{
+	padding: 4px 9px;
+}
+@media (min-width: 768px) {
+	.widget-main > form.form-search{
+		margin: -7px 0px;
+ 	}
+	.form-search .form-group{
+		margin: 7px 10px 7px 0px;
+ 	}
+}
